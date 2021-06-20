@@ -12,4 +12,4 @@ Now click edit in unity editor and go to project settings, go to graphics and pa
 
 You can use post processing effects for better visuals 
 
-[Link to Google](https://drive.google.com/file/d/1swTuI8Nu9qXTlpDfNuTl586m7uck5xf0/view?usp=sharing)
+[Click here to download apk of current game prototype](https://drive.google.com/file/d/1swTuI8Nu9qXTlpDfNuTl586m7uck5xf0/view?usp=sharing)
