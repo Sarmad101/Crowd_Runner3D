@@ -11,3 +11,5 @@ Now right click in project panel and click create > Rendering > Univeral Render 
 Now click edit in unity editor and go to project settings, go to graphics and paste pipeline asset into Scriptable Render Pipeline Settings. If you did each step well then wala :) you're done
 
 You can use post processing effects for better visuals 
+
+<a>lini</a>
